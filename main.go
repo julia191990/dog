@@ -1,8 +1,9 @@
 package main
 
 import (
-	"dog/dog"
 	"fmt"
+
+	"github.com/julia191990/dog/dog"
 )
 
 func main() {

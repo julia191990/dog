@@ -1,5 +1,3 @@
-module dog
+module github.com/julia191990/dog
 
 go 1.13
-
-require golang.org/x/tools v0.0.0-20200509030707-2212a7e161a5 // indirect
